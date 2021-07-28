@@ -1,0 +1,2 @@
+rootProject.name = "ProxyQuizApp"
+include ':app'
